@@ -1,11 +1,164 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ttitulo do Site</title>
+  <link rel="stylesheet" href="style/main.css">
+    <!--Responsividade-->
+  <link rel="stylesheet" href="style/responsive.css">
+  <!--owl.css-->
+  <link rel="stylesheet" href="style/Owl_jQuery/owl.carousel.min.css">
+  <link rel="stylesheet" href="style/Owl_jQuery/owl.theme.default.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300&display=swap" rel="stylesheet">
+  <title>MUSICFLIX INTERFACE</title>
 </head>
 <body>
-  
+  <header>
+    <div class="wrapper">
+      <a name="home"><h2 class="logo">MUSICFLIX</h2></a>
+      <nav>
+        <a href= "#home">Início</a>
+        <a href="#rock">Rock</a>
+        <a href="#pop">Pop</a>
+        <a href="#hip-hop">Hip Hop</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+  <div class="video-principal">
+      <div class="wrapper"> <!-- Filha direta do video-principal -->
+             <h3 class="titulo">ANITTA - BOYS DON'T CRY</h3> <!-- Filha direta do video-principal -->
+             <p class="descricao">Assista ao novo clipe da Anitta, "Boys Don't Cry"! A nossa Girl From Rio arrasa!</p> <!-- Filha direta do video-principal -->
+            <div class="botoes"> <!--Não e filha direta. É uma div nova que recebe display:block-->
+                 <a href="https://www.youtube.com/watch?v=PkzJgGZBFDg" target="_blank"><button role="button" class="botao">
+                  <i class="far fa-play-circle"></i>
+                  ASSISTIR AGORA
+                  </button></a>
+                  <a href="https://www.youtube.com/channel/UCqjjyPUghDSSKFBABM_CXMw" target="_blank"><button role="button" class="botao">
+                    <i class="fas fa-binoculars"></i>
+                    MAIS INFORMAÇÕES
+                  </button></a>
+                  <!--
+                  <button role="button" class="botao">
+                    <i class="fas fa-user-plus"></i>
+                    SEGUIR ARTISTA 
+                  </button>
+                  -->
+            </div>
+      </div>
+</div>
+</main>
+<div class="descricao-carrossel">
+  <h3>Outros Artistas</h3>
+</div>
+<div class="carrossel-videos">
+  <div class="owl-carousel owl-theme">
+          <div class="item">
+                <a href="https://www.youtube.com/watch?v=4wYdZi3tFJ4" target="_blank"><img class="box-video" src="imagens/beyonce.jpg" alt="beyonce"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=MMuUFjxLQJU" target="_blank"><img class="box-video" src="imagens/jayz2.jpg" alt="jay-z"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=58hoktsqk_Q" target="_blank"><img class="box-video" src="imagens/gaga2.jpg" alt="gaga"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=PkzJgGZBFDg" target="_blank"><img class="box-video" src="imagens/anitta.jpg" alt="anitta"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=uly3S2KjUf4" target="_blank"><img class="box-video" src="imagens/metric.jpg" alt="metric"></a>
+          </div>
+          <div class="item">
+           <a href="https://www.youtube.com/watch?v=An1PbYisPEY" target="_blank"><img class="box-video" src="imagens/dmb2.jpg" alt="dmb"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=iLTR0UyG2Yo" target="_blank"><img class="box-video" src="imagens/luisa.jpg" alt="luisa-sonza"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=FE7RGOpABGg" target="_blank"><img class="box-video" src="imagens/pitty.jpg" alt="pitty"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=Hqpw9dtKChg" target="_blank"><img class="box-video" src="imagens/rihanna.png" alt="rihanna"></a>
+          </div>
+          <div class="item">
+            <a href="https://www.youtube.com/watch?v=iZghURWuKSw" target="_blank"><img class="box-video" src="imagens/noel2.jpeg" alt="Noel"></a>
+          </div>              
+  </div>
+  <div class="descricao-carrossel">
+    <a name="rock"><h3>Rock</h3></a>
+  </div>
+  <div class="carrossel-videos">
+    <div class="owl-carousel owl-theme">
+            <div class="item">
+              <img class="box-video" src="imagens/metric.jpg" alt="Metric">
+            </div>
+            <div class="item">
+              <a href="https://www.youtube.com/watch?v=eFOY6KJlFEg" target="_blank"><img class="box-video" src="imagens/paramore.jpg" alt="Paramore"></a>
+            </div>
+            <div class="item">
+              <a href="https://www.youtube.com/watch?v=An1PbYisPEY" target="_blank"><img class="box-video" src="imagens/dmb2.jpg" alt="dmb"></a>
+             </div>
+            <div class="item">
+              <a href="https://www.youtube.com/watch?v=FE7RGOpABGg" target="_blank"><img class="box-video" src="imagens/pitty.jpg" alt="pitty"></a>
+            </div>
+            <div class="item">
+              <a href="https://www.youtube.com/watch?v=KyvyUP_8PQA" target=""><img class="box-video" src="imagens/no_doubt.png" alt="No-Doubt"></a>
+            </div>
+            <div class="item">
+              <a href="https://www.youtube.com/watch?v=iZghURWuKSw" target="_blank"><img class="box-video" src="imagens/noel2.jpeg" alt="Noel"></a>
+            </div>              
+    </div>
+    <div class="descricao-carrossel">
+      <a name="pop"><h3>Pop</h3></a>
+    </div>
+    <div class="carrossel-videos">
+      <div class="owl-carousel owl-theme">
+        <div class="item">
+          <a href="https://www.youtube.com/watch?v=4wYdZi3tFJ4" target="_blank"><img class="box-video" src="imagens/beyonce.jpg" alt="beyonce"></a>
+        </div>
+        <div class="item">
+          <a href="https://www.youtube.com/watch?v=58hoktsqk_Q" target="_blank"><img class="box-video" src="imagens/gaga2.jpg" alt="gaga"></a>
+        </div>
+                <div class="item">
+                  <a href="https://www.youtube.com/watch?v=PkzJgGZBFDg" target="_blank"><img class="box-video" src="imagens/anitta.jpg" alt="Anitta"></a>
+                </div>
+                <div class="item">
+                  <a href="https://www.youtube.com/watch?v=iLTR0UyG2Yo" target="_blank"><img class="box-video" src="imagens/luisa.jpg" alt="luisa-sonza"></a>
+                </div>
+                <div class="item">
+                  <a href="https://www.youtube.com/watch?v=Hqpw9dtKChg" target="_blank"><img class="box-video" src="imagens/rihanna.png" alt="rihanna"></a>
+                </div>             
+      </div>
+      <div class="descricao-carrossel">
+        <a name="hip-hop"><h3>Hip Hop</h3></a>
+      </div>
+      <div class="carrossel-videos">
+        <div class="owl-carousel owl-theme">
+             <div class="item">
+                    <a href="https://www.youtube.com/watch?v=Wpm07-BGJnE" target="_blank"><img class="box-video" src="imagens/nicki_minaj.jpg" alt="nicki"></a>
+              </div>
+              <div class="item">
+                <a href="https://www.youtube.com/watch?v=MMuUFjxLQJU" target="_blank"><img class="box-video" src="imagens/jayz2.jpg" alt="jay-z"></a>
+              </div>
+                <div class="item">
+                  <a href="https://www.youtube.com/watch?v=KynkMn5Hv3Q" target="_blank"><img class="box-video" src="imagens/meghan.jpg" alt="meghan"></a>
+                </div>
+                <div class="item">
+                  <a href="https://www.youtube.com/watch?v=4haurn3S8z8" target="_blank"><img class="box-video" src="imagens/eminem.jpg" alt="eminem"></a>
+                </div>
+                <div class="item">
+                <a href="https://www.youtube.com/watch?v=9sJZOGxRxwM" target="_blank"><img class="box-video" src="imagens/kanye.jpg" alt="kanye"></a>
+                </div>
+        </div>
+</div>
+  <footer class="rodape">
+    <p> &copy; MusicFlix 2022</p>
+  </footer>
+<script src="https://kit.fontawesome.com/6ebca1bb85.js"></script>
+<script src="javascript/Owl_jQuery/jquery.min.js"></script>
+<script src="javascript/Owl_jQuery/owl.carousel.min.js"></script>
+<script src="javascript/setup.js"></script>
 </body>
 </html>
