@@ -44,7 +44,7 @@ header nav a:hover{
 /* Videoclipe Principal */
 .video-principal{
   font-size: 15px;
-  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('https://capricho.abril.com.br/wp-content/uploads/2022/01/anitta-boys-dont-cry-2.jpg') ; 
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('https://s2.glbimg.com/oxlYRpGOoHx2ysOKTOuUkJ2eEpM=/0x0:2067x2067/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/g/HcLJMYTEuJCnv7SbitPw/anittaboysdontcrycapasingle.jpg') ; 
   height: 500px;
   background-size: cover; 
 
