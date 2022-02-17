@@ -44,9 +44,9 @@ header nav a:hover{
 /* Videoclipe Principal */
 .video-principal{
   font-size: 15px;
-  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('site_musicflix/imagens/anitta.jpg');
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/imagens/capa_Anitta.jpg'); /*O gradiente pede mais de uma cor.*/
   height: 500px;
-  background-size: cover;
+  background-size: cover;   /*Área de cobertura da caixa.*/
 
   display: flex;
   flex-direction: column;
