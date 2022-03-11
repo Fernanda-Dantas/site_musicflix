@@ -16,7 +16,7 @@ Projeto que fiz no curso "Recriando a Interface do Netflix" do Bootcamp "Take Bl
 O objetivo era recriar a interface do Netflix, no entanto, para ter um pouco mais de personalidade e originalidade,
 utilizei conteúdos musicais. Com isso, nasceu a MUSICFLIX, plataforma imaginária de streaming de videoclipes dos seus artistas favoritos.
 
-[Acesse o site](https://www.youtube.com/watch?v=ZbH8MuSNd6A) | | 
+[Acesse o site](https://fernanda-dantas.github.io/site_musicflix/#home) | | 
 [Acesse o vídeo do Projeto](https://www.youtube.com/watch?v=ZbH8MuSNd6A)
 
 
