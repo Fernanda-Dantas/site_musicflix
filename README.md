@@ -4,12 +4,6 @@
 
 ## MUSICFLIX: plataforma imaginária de streaming de videoclipes.
 
-![musicflix_1](https://user-images.githubusercontent.com/81118959/154538729-748134d0-4e10-4928-9345-7b54501cb9b1.png)
-![musicflix_2](https://user-images.githubusercontent.com/81118959/154538732-d11c21a2-932c-4a35-8a2d-d2913097b55e.png)
-![musicflix_3](https://user-images.githubusercontent.com/81118959/154538736-c28c0168-5bf4-44fc-b234-610a86cbbcd1.png)
-![musicflix_4](https://user-images.githubusercontent.com/81118959/154538739-55acbfe4-c073-4ba7-90fb-136686c3358a.png)
-![musicflix_5](https://user-images.githubusercontent.com/81118959/154538717-8e496237-a85d-44c3-bdc8-0c843f1b1d2c.png)
-
 ![musicflix_2](https://user-images.githubusercontent.com/81118959/157893131-556af860-08c1-4c70-87ee-33e9b49eb468.gif)
 
 ## Sobre:
