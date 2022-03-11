@@ -10,6 +10,7 @@
 ![musicflix_4](https://user-images.githubusercontent.com/81118959/154538739-55acbfe4-c073-4ba7-90fb-136686c3358a.png)
 ![musicflix_5](https://user-images.githubusercontent.com/81118959/154538717-8e496237-a85d-44c3-bdc8-0c843f1b1d2c.png)
 
+![musicflix_2](https://user-images.githubusercontent.com/81118959/157893131-556af860-08c1-4c70-87ee-33e9b49eb468.gif)
 
 ## Sobre:
 Projeto que fiz no curso "Recriando a Interface do Netflix" do Bootcamp "Take Blip Web Developer" da Digital Innovation One.
